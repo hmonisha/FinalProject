@@ -1,0 +1,62 @@
+/*WATCHITWHERE CSS */
+
+main h1{
+    font-family: Georgia;
+    border-bottom: 2px solid indianred;
+
+
+}
+main p{
+
+    color: black;
+
+}
+
+main h2{
+text-align: center;
+    padding-bottom: 40px;
+}
+
+main h3{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: lightpink;
+    margin-top: 200px;
+
+}
